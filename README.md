@@ -1,6 +1,6 @@
 # MovieRez
 
-A FastAPI-based movie reservation system.
+A FastAPI-based movie reservation system by Toby Oghre.
 
 ## Setup
 
